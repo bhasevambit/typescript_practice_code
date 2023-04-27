@@ -4,7 +4,7 @@ This repository is practice for TypeScript Coding.
 
 ## TypeScript Version
 
-This repository is used "TypeScript 5.0.4" and "@types/node 18.16.1".
+This repository is used "Node.js v18.16.0" and "TypeScript 5.0.4", "@types/node 18.16.1".
 
 ## Package requirement
 
