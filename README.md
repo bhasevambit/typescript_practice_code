@@ -6,8 +6,8 @@ This repository is practice for TypeScript Coding.
 
 This repository is used "TypeScript x.x.x" and "Node.js v20.0.0".
 
-## package.json
+## Package requirement
 
 package.json is below.
 
-`xxx`
+`./package.json`
